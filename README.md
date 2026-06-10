@@ -34,11 +34,11 @@ My Data Analytics Stack
 
 Metric & Language Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mooveshm&show_icons=true&theme=visual_studio_dark&count_private=true" width="48%" alt="Moovesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooveshm&layout=compact&theme=visual_studio_dark" width="48%" alt="Top Langs" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/mooveshm?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mooveshm?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/mooveshm/valentine-app?label=Project%20Size&style=flat-square&color=green" alt="Project Size" />
 </p>
-
 ---
 
 Key Portfolio Themes
